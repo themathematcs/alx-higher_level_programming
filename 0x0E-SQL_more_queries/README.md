@@ -1,9 +1,17 @@
+
+<img src="https://cdn.pixabay.com/photo/2017/06/12/04/21/database-2394312__340.jpg">
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/66988091.jpg">
+
+
 # SQL - More queries
+
 
 In this project, I continued to practicing SQL queries, working with
 permissoins, joins, and constraints.
 
 ## Usage :dolphin:
+
+
 
 * Scripts [3-force_name.sql](./3-force_name.sql) forward take the database to query from
 as a MySQL command line argument.
