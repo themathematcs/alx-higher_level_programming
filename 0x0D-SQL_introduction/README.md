@@ -1,6 +1,15 @@
+
+
+
 # SQL - Introduction
 
 In this project, we began working on relational databases. I started practising introductory SQL data definitions and data manipulation language, making subqueries, and using functions.
+
+
+
+"![image](https://user-images.githubusercontent.com/111011919/219132734-3005aee2-e5f2-4b05-b3ea-eafb2d637020.png)"
+
+    
 
 ## Tasks :page_with_curl:
 
